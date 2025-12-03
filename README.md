@@ -1,4 +1,4 @@
-OPS445 Lab 1 – Introduction to Python Programming
+# OPS445 Lab 1 – Introduction to Python Programming
 
 Welcome to OPS445 Lab 1!
 
@@ -32,4 +32,3 @@ Keep your code organized and well-commented for easier review.
 
 📖 References:
 OPS445 Lab 1 – Littlesvr Wiki (http://wiki.littlesvr.ca/wiki/OPS445_Lab_1)
-Sample GitHub Lab 1 Repository
