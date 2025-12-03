@@ -9,24 +9,23 @@ Using math operators
 Debugging and reading error messages
 
 📚 Lab Objectives:
-Create your first Python program ()
+Create your first Python program (Hello World)
 Work with values and variables:
-Strings
-Integers
-Arithmetic operations
+  Strings
+  Integers
+  Arithmetic operations
 Learn to run Python programs from both the Python3 shell and the bash shell
 Practice debugging by reading and interpreting error messages
 
 📂 Lab Files:
 You will create and work with the following files during this lab:
-Hello World program
-Strings practice
-Integers and arithmetic practice
-Combined exercises
-Output log from the checking script
+lab1a.py – Hello World program
+lab1b.py – Strings practice
+lab1c.py – Integers and arithmetic practice
+lab1d.py – Combined exercises
 
 🧩 Tips & Tricks:
-Compare Python’s  function with Bash’s  command to understand differences.
+Compare Python’s print() function with Bash’s echo command to understand differences.
 Experiment with errors (e.g., missing quotes or parentheses) to strengthen debugging skills.
 Keep your code organized and well-commented for easier review.
 
