@@ -3,7 +3,6 @@
 # lab1c.py
 # Author: Avraham Abel
 
-
 personName = "John" 
 age = 72
 
