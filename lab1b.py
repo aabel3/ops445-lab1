@@ -3,7 +3,5 @@
 # lab1b.py
 # Author: Avraham Abel
 
-
 personName = "John" 
-
 print("How old are you " + personName + "?")
